@@ -9,7 +9,7 @@ SavedBooks List.
 
 ## Links 
 - [GitHub Repository](https://github.com/Makispear/Book-Search-Engine)
-- Check out the website [here](https://salty-eyrie-18268.herokuapp.com/)
+- Check out the website [here](https://searchbookswithgoogle.herokuapp.com/)
 
 ## Visuals
 - **The Homepage**
