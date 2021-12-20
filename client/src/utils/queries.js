@@ -19,10 +19,11 @@ export const QUERY_ME = gql`
     me {
       username
       _id
-          savedBooks {
+      savedBooks {
         description
         bookId
         title
       }
     }
+  }
 `
