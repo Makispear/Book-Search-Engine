@@ -13,16 +13,16 @@ SavedBooks List.
 
 ## Visuals
 - **The Homepage**
-![ScreenShot of Home Page](/assets/images/Homepage.jpg?raw=true)
+![ScreenShot of Home Page](./assets/images/Homepage.jpg?raw=true)
 
 - **Login Model**
-![ScreenShot of login modal](/assets/images/login.jpg?raw=true)
+![ScreenShot of login modal](./assets/images/login.jpg?raw=true)
 
 - **Sign up modal**
-![ScreenShot of sign up modal](/assets/images/signup.jpg?raw=true)
+![ScreenShot of sign up modal](./assets/images/signup.jpg?raw=true)
 
 - **SavedList**
-![ScreenShot of saved list](/assets/images/savedlist.jpg?raw=true)
+![ScreenShot of saved list](./assets/images/savedlist.jpg?raw=true)
 
 
 ## Reach Out
