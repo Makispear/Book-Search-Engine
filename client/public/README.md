@@ -1,4 +1,4 @@
-# Book Search Engine Starter Code
+# Book Search Engine
 
 An application where users can search for books from the google books API. They can also save them to a Saved Books after signing up for the service.
 
