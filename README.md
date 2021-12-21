@@ -1,14 +1,13 @@
 # Book Search Engine
 
-An application where users can search for books from the google books API. They can also save them to a Saved Books after signing up for the service.
+An application where users can search for books from the Google books API. They can also save them to a saved books after signing up for the service.
 
 ## Features
-When A user isn't logged in, the user can only search for books without saving them.
-If a user decides to create an account, they will be able to save their favorite books in the 
+A user can only search for books without saving them. If a user decides to create an account, they will be able to save their favorite books in the 
 SavedBooks List.
 
 ## Links 
-- [GitHub Repository](https://github.com/Makispear/Book-Search-Engine)
+- [GitHub Repository](https://github.com/Makispear/Search-Google-Books)
 - Check out the website [here](https://searchbookswithgoogle.herokuapp.com/)
 
 ## Visuals
